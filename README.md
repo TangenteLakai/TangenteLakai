@@ -5,11 +5,14 @@
 
 
 - 🔭 I’m currently working on [2048 in PyQt](https://github.com/TangenteLakai/2048-Python-PyQt6-Project)
-<br>
+
+
 - 🌱 I’m currently learning **CS50x, PyQt6**
-<br>
+
+
 - 📫 How to reach me **verlohnerjohann@gmail.com**
-<br>
+
+
 - ⚡ Fun fact **im 11yo**
 
 <h3 align="left">Connect with me:</h3>
