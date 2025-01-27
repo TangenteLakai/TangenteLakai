@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tangentelakai&label=views&color=4c566a&style=flat" alt="tangentelakai" /> </p>
 
 
-- 🔭 I’m currently working on my overall programming skills and [2048 in PyQt](https://github.com/TangenteLakai/2048-Python-PyQt6-Project)
+- 🔭 I’m currently working on my overall programming skills and [Geometry Engine](https://github.com/TangenteLakai/basic-geometry-engine)
 
 
 - 🌱 I’m currently learning **CS50x, Raylib**
