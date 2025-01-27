@@ -7,13 +7,11 @@
 - 🔭 I’m currently working on my overall programming skills and [2048 in PyQt](https://github.com/TangenteLakai/2048-Python-PyQt6-Project)
 
 
-- 🌱 I’m currently learning **CS50x, PyQt6**
+- 🌱 I’m currently learning **CS50x, Raylib**
 
 
 - 📫 How to reach me **verlohnerjohann@gmail.com**
 
-
-- ⚡ Fun fact **im 11yo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
