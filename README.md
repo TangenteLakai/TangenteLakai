@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johann</h1>
-<h3 align="center">Just a noob lol</h3>
+<h3 align="center">beginner 😒</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tangentelakai&label=views&color=4c566a&style=flat" alt="tangentelakai" /> </p>
 
